@@ -54,7 +54,7 @@ I write technical articles that don’t just explain *how*, but also *why* — w
 
 Check out my blog on Hashnode →  
 🌐 [usefaiaz.hashnode.dev](https://usefaiaz.hashnode.dev/)
-And my profile for other blogs →
+and my profile for other blogs →
 🌐 [hashnode.com/@faiaz001](https://hashnode.com/@faiaz001)
 
 Some recent posts:
