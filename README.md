@@ -54,6 +54,8 @@ I write technical articles that don’t just explain *how*, but also *why* — w
 
 Check out my blog on Hashnode →  
 🌐 [usefaiaz.hashnode.dev](https://usefaiaz.hashnode.dev/)
+And my profile for other blogs →
+🌐 [https://hashnode.com/@faiaz001]
 
 Some recent posts:
 - 🧠 Debounced Search in React: Because Users Can Type Too Fast  
