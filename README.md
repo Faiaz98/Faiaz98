@@ -8,19 +8,19 @@ I'm a **Frontend Developer** who loves building responsive, scalable, and perfor
 ---
 
 
-## 🚀 What I Do
+## What I Do
 
-- 🔧 Build fast, maintainable UI components
-- 📐 Write scalable styles with Tailwind CSS
-- 🧠 Use hooks, Zustand, and context the smart way
-- 🔄 Optimize renders and API calls
-- 💬 Teach what I learn through technical blogging
+-  Build fast, maintainable UI components
+-  Write scalable styles with Tailwind CSS
+-  Use hooks, Zustand, and context the smart way
+-  Optimize renders and API calls
+-  Teach what I learn through technical blogging
 
 
 ---
 
 
-## 🧠 What I Know
+##  What I Know
 
 - **Languages**: JavaScript (ES6+), TypeScript (basic), PHP, C/C++
 - **Frontend Stack**: ReactJS, Tailwind CSS, Bootstrap, HTML5, CSS3
@@ -33,7 +33,7 @@ I'm a **Frontend Developer** who loves building responsive, scalable, and perfor
 
 
 
-## 💼 What I’ve Built
+##  What I’ve Built
 
 | Project       | Description                                                                                         | Live Demo |
 |--------------|-----------------------------------------------------------------------------------------------------|-----------|
@@ -48,7 +48,7 @@ I'm a **Frontend Developer** who loves building responsive, scalable, and perfor
 
 
 
-## ✍️ I Also Write (and Try to Be Funny)
+## I Also Write (and Try to Be Funny)
 
 I write technical articles that don’t just explain *how*, but also *why* — with humor, real-world examples, and developer sanity in mind.
 
@@ -58,9 +58,9 @@ and my profile for other blogs →
 🌐 [hashnode.com/@faiaz001](https://hashnode.com/@faiaz001)
 
 Some recent posts:
-- 🧠 Debounced Search in React: Because Users Can Type Too Fast  
-- 🛠️ `useCallback` and `React.memo`: The Overthinking Duo  
-- 🌀 Virtual DOM vs Real DOM: A Dramatic Love Story
+-  Debounced Search in React: Because Users Can Type Too Fast  
+-  `useCallback` and `React.memo`: The Overthinking Duo  
+-  Virtual DOM vs Real DOM: A Dramatic Love Story
 
 
 
@@ -68,9 +68,9 @@ Some recent posts:
 
 
 
-## 🎯 Career Goal
+##  Career Goal
 
-To become a frontend specialist who builds **high-performance, accessible, and delightful web apps** — and mentors others along the way. I'm also exploring TypeScript deeply, and secretly trying to convince every team to adopt Tailwind 😎.
+To become a frontend specialist who builds **high-performance, accessible, and delightful web apps** — and mentors others along the way. I'm also exploring TypeScript deeply, and secretly trying to convince every team to adopt Tailwind .
 
 
 
@@ -78,7 +78,7 @@ To become a frontend specialist who builds **high-performance, accessible, and d
 
 
 
-## 📫 Let's Connect
+##  Let's Connect
 
 - 📧 [iram.faiaz99@gmail.com](mailto:iram.faiaz99@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/faiaz98/)
