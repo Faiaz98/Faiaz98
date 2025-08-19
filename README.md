@@ -37,10 +37,11 @@ I'm a **Frontend Developer** who loves building responsive, scalable, and perfor
 
 | Project       | Description                                                                                         | Live Demo |
 |--------------|-----------------------------------------------------------------------------------------------------|-----------|
-| **Zentry Clone**     | A fully responsive clone of the Zentry landing page built with React & Tailwind                | [🔗 View](https://zentry-clone-beta.vercel.app/) |
+| **Zentry Clone**     | A fully responsive clone of the Zentry landing page built with React & Tailwind               | [🔗 View](https://zentry-clone-beta.vercel.app/) |
 | **Brainwave**        | A creative idea-sharing platform with a modern UI                                             | [🔗 View](https://brainwave-001.vercel.app/) |
-| **Hoobank**          | A clean banking website showcasing design finesse                                             | [🔗 View](https://hoobank-gamma-vert.vercel.app/) |
-| **Bug Tracker**      | A simple bug tracking system built with PHP, MySQL & Bootstrap                               | [🔗 GitHub](https://github.com/Faiaz98/Bug-Tracking-System) |
+| **Git Commit Tree**  | An interactive web application that visualizes GitHub repository commit histories             | [🔗 View](https://git-commit-tree.vercel.app/) |
+                        as animated tree structures.
+| **Bug Tracker**      | A simple bug tracking system built with PHP, MySQL & Bootstrap                                | [🔗 GitHub](https://github.com/Faiaz98/Bug-Tracking-System) |
 
 
 
