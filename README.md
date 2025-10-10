@@ -1,8 +1,6 @@
 # ~ Hey there! I'm Faiaz Khan 👋 ~
 
-I’m a **Frontend Developer** who loves building responsive, scalable, and performant web apps — the kind that *just work* (and don’t break on mobile).  
-Currently, I focus on **React**, **TypeScript**, and **TailwindCSS**, blending performance with design finesse ✨.  
-I spend my days optimizing API calls, fighting CSS (and sometimes winning), and writing about React patterns and developer sanity over at [**useFaiaz()**](https://usefaiaz.hashnode.dev).  
+I’m a **Frontend Developer** who loves building responsive, scalable, and performant web apps — the kind that *just work* (and don’t break on mobile). Currently, I focus on **React**, **TypeScript**, and **TailwindCSS**, blending performance with design finesse ✨. I spend my days optimizing API calls, fighting CSS (and sometimes winning), and writing about React patterns and developer sanity over at [**useFaiaz()**](https://usefaiaz.hashnode.dev).  
 When I’m not in VS Code, I’m probably overthinking blog titles, tweaking animations for the 50th time, or pretending to debug production faster than `npm install` finishes.  
 
 ---
