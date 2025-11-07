@@ -43,11 +43,10 @@ Here are some of the tools and technologies I tinker with (and found fancy badge
 ## 🧩 Some Projects I’ve Built
 
 | Project | Description | Live Demo |
-|----------|-------------|------------|
-| **Zentry Clone** | Fully responsive clone of the Zentry landing page built with React & Tailwind | [🔗 View](https://zentry-clone-beta.vercel.app/) |
-| **Brainwave** | A creative idea-sharing platform with a modern UI | [🔗 View](https://brainwave-001.vercel.app/) |
-| **Git Commit Tree** | Interactive visualization of GitHub commit histories | [🔗 View](https://git-commit-tree.vercel.app/) |
-| **Bug Tracker** | Simple PHP & MySQL-based bug tracking system | [🔗 GitHub](https://github.com/Faiaz98/Bug-Tracking-System) |
+|--------|-------------|-----------|
+| **SwiftDrop** | Secure, encrypted peer-to-peer file sharing with zero server dependency | [🔗 View](https://swift-drop-six.vercel.app/) |
+| **Taskly** | Real-time collaborative task tracker for families and small groups | [🔗 View](https://taskly-air.vercel.app/) |
+| **FixReact** | Interactive React problem-solving platform with hands-on debugging challenges | [🔗 View](https://fix-react.vercel.app/) |
 
 ---
 
