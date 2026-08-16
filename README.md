@@ -46,7 +46,7 @@ Here are some of the tools and technologies I tinker with (and found fancy badge
 |--------|-------------|-----------|
 | **SwiftDrop** | Secure, encrypted peer-to-peer file sharing with zero server dependency | [🔗 View](https://swift-drop-six.vercel.app/) |
 | **Taskly** | Real-time collaborative task tracker for families and small groups | [🔗 View](https://taskly-air.vercel.app/) |
-| **FixReact** | Interactive React problem-solving platform with hands-on debugging challenges | [🔗 View](https://fix-react.vercel.app/) |
+| **ResQ** | Offline-first emergency response coordination platform designed to keep incident and field-request workflows functional during network outages | [🔗 View](https://resq-ecru.vercel.app/) |
 
 ---
 
